@@ -1,4 +1,4 @@
-# RMF Copywriting Panel — Recommended-Copy Scoring Gate
+# RMF Copywriting Panel: Recommended-Copy Scoring Gate
 
 Used by the Revenue Messaging Framework analysis. Scores EVERY piece of recommended copy before it
 ships in an analysis. **Threshold: 7.5 composite average, AND no single framework below 6.**
@@ -6,15 +6,15 @@ ships in an analysis. **Threshold: 7.5 composite average, AND no single framewor
 ## Purpose
 
 Every piece of recommended copy in an RMF analysis is scored against six expert frameworks **before
-inclusion**. This is not pass/fail — each framework scores 1–10. Copy below threshold gets rewritten
-until it clears. **The copy that ships is always copy that passed.** Scores are working notes; they stay
+inclusion**. This is not pass/fail. Each framework scores 1–10. Copy below threshold gets rewritten
+until it clears. **The copy that ships is always copy that passed.** Scores are working notes. They stay
 out of the analysis itself.
 
 ---
 
 ## The Panel
 
-### 1. Dunford — Positioning
+### 1. Dunford: Positioning
 *Does this copy create a defensible market position or clear competitive separation?*
 
 | Score | Meaning |
@@ -25,7 +25,7 @@ out of the analysis itself.
 | 8–9 | Creates a "category of one" or reframes the buying criteria in the company's favor. Competitors would need to respond. |
 | 10 | Category-defining. Changes how the buyer thinks about the market. Extremely rare on a first analysis. |
 
-### 2. Ogilvy — Copywriting Craft
+### 2. Ogilvy: Copywriting Craft
 *Is the headline doing the heavy lifting? Is the copy specific, benefit-driven, filler-free?*
 
 | Score | Meaning |
@@ -36,7 +36,7 @@ out of the analysis itself.
 | 8–9 | Every word earns its spot. Headline works standalone. Specific enough to fact-check. Reads like a human wrote it with conviction. |
 | 10 | Quotable. The kind of line a CEO puts on a slide or repeats in a pitch. Extremely rare. |
 
-### 3. Cialdini — Buyer Psychology
+### 3. Cialdini: Buyer Psychology
 *Does this correctly deploy proof, authority, contrast, scarcity, reciprocity, or commitment/consistency?*
 
 | Score | Meaning |
@@ -47,7 +47,7 @@ out of the analysis itself.
 | 8–9 | Multiple levers working together naturally. Proof and authority stack without a hard-sell feel. Trust barrier addressed directly. |
 | 10 | Textbook execution across multiple principles, effortless to the reader. |
 
-### 4. Schwartz — Awareness Stages
+### 4. Schwartz: Awareness Stages
 *Does the copy meet the buyer at the correct awareness stage for where it appears on the site?*
 
 | Score | Meaning |
@@ -56,9 +56,9 @@ out of the analysis itself.
 | 4–5 | Right general stage, but the transition is clunky or the buyer fills in gaps. |
 | 6–7 | Correct stage, smooth read. The buyer feels understood and is moved forward. |
 | 8–9 | Precisely calibrated. Problem-aware hero, most-aware CTA, proof that bridges solution- to product-aware. |
-| 10 | The copy itself creates new awareness — the buyer didn't know they had this problem until they read this. |
+| 10 | The copy itself creates new awareness. The buyer didn't know they had this problem until they read this. |
 
-### 5. Laja — B2B Differentiation
+### 5. Laja: B2B Differentiation
 *Could a competitor put their logo on this copy and have it still make sense?*
 
 | Score | Meaning |
@@ -69,7 +69,7 @@ out of the analysis itself.
 | 8–9 | Clearly ownable. Built on verifiable facts, specific credentials, or a structural advantage. A competitor would look foolish copying it. |
 | 10 | The copy IS the moat. So specific to this company's DNA that imitating it would expose the imitator. |
 
-### 6. Moesta — Jobs to Be Done
+### 6. Moesta: Jobs to Be Done
 *Does this speak to the job the buyer is hiring for, or describe the product being sold?*
 
 | Score | Meaning |
@@ -87,13 +87,13 @@ out of the analysis itself.
 - **Per-framework:** each of the 6 scores 1–10 for each piece of copy.
 - **Composite:** average of all 6.
 - **Threshold: 7.5 composite to ship.**
-  - **9.0+** — exceptional; flag as a highlight in the analysis.
-  - **7.5–8.9** — ships as written.
-  - **6.0–7.4** — rewrite required; fix the frameworks dragging the score; re-score.
-  - **Below 6.0** — start over; fundamental positioning/specificity/buyer-alignment problems.
+  - **9.0+**: exceptional, flag as a highlight in the analysis.
+  - **7.5–8.9**: ships as written.
+  - **6.0–7.4**: rewrite required. Fix the frameworks dragging the score, then re-score.
+  - **Below 6.0**: start over. Fundamental positioning/specificity/buyer-alignment problems.
 - **Minimum per-framework: 6.** Even if the composite clears 7.5, any single framework below 6
-  triggers a targeted rewrite for that dimension. (A great headline — Ogilvy 9 — with no
-  differentiation — Laja 4 — still needs work.)
+  triggers a targeted rewrite for that dimension. (A great headline at Ogilvy 9, with no
+  differentiation at Laja 4, still needs work.)
 
 ## What It Runs On (and What It Doesn't)
 

@@ -1,4 +1,4 @@
-# RMF Audit — Output Template
+# RMF Audit: Output Template
 
 Fill-in skeleton for a Revenue Messaging Framework analysis.
 Spec + rules: [`methodology/revenue-messaging-framework.md`](../methodology/revenue-messaging-framework.md)
@@ -9,8 +9,8 @@ Driver: [`SKILL.md`](../SKILL.md)
 1. Do the **scope check** first (see the spec). Off-profile → say so and adjust before proceeding.
 2. Copy everything under **── ANALYSIS STARTS HERE ──** into the new analysis.
 3. Replace every `[bracketed]` placeholder. Keep section order.
-4. Run the Copywriting Panel internally on all recommended copy; only paste copy that cleared 7.5+.
-5. Keep panel scores in the **Internal QA Appendix** at the bottom — those are working notes, not part of the analysis.
+4. Run the Copywriting Panel internally on all recommended copy. Only paste copy that cleared 7.5+.
+5. Keep panel scores in the **Internal QA Appendix** at the bottom. Those are working notes, not part of the analysis.
 
 Formatting reminders: no `---` dividers between sections · paragraphs ≤4 sentences · quote actual copy ·
 recommendations are complete copy, not directions · never score above 85 on a first analysis.
@@ -30,17 +30,17 @@ recommendations are complete copy, not directions · never score above 85 on a f
 sentence]. [What doesn't work in one sentence]. For [specific buyer persona] evaluating [what they're
 evaluating], [the core gap or opportunity].
 
-**Your grade, in plain terms:** [one plain-language sentence — translate the grade into second person
-using the grading-scale Meaning column, e.g. "Below average — fundamental messaging issues to fix."]
+**Your grade, in plain terms:** [one plain-language sentence: translate the grade into second person
+using the grading-scale Meaning column, e.g. "Below average. Fundamental messaging issues to fix."]
 
 **Top fixes (start here):**
-1. [Highest-leverage change — what's wrong → what to do]
+1. [Highest-leverage change: what's wrong → what to do]
 2. [Next highest-leverage change]
 3. [Next highest-leverage change]
 
 ## What This Score Means
 
-[¶1 — Market context: name the real competitors/categories, what buyers are comparing, why messaging
+[¶1. Market context: name the real competitors/categories, what buyers are comparing, why messaging
 matters in THIS market, and how it ties to pipeline/revenue/deal size.]
 
 **What you're doing right:** [comma-separated strengths].
@@ -63,17 +63,17 @@ matters in THIS market, and how it ties to pipeline/revenue/deal size.]
 - [Specific weakness + why]
 
 **Recommended Revision:**
-**[New headline — panel-cleared]**
-[Subhead/body when relevant — panel-cleared.]
+**[New headline (panel-cleared)]**
+[Subhead/body when relevant (panel-cleared).]
 
 *(Repeat the Section block for every visible section: hero, subhead, value props/pillars,
 services/products, social proof, testimonials, metrics, process, pricing, about/team, case studies,
 final CTA, and any unique sections.)*
 
 ### Missing Critical Elements
-- **[Missing element]** — [what's absent and the cost of it]
-- **[Missing element]** — [what's absent and the cost of it]
-- **[Missing element]** — [what's absent and the cost of it]
+- **[Missing element]:** [what's absent and the cost of it]
+- **[Missing element]:** [what's absent and the cost of it]
+- **[Missing element]:** [what's absent and the cost of it]
 
 ## Your Revenue Messaging Framework
 
@@ -81,23 +81,23 @@ final CTA, and any unique sections.)*
 **For: [Specific buyer title]**
 - **Old Way:** "[How they do it now, in their words]"
 - **New Way:** "[How they'll do it with this solution]"
-- **Your Message:** "[Transformation statement — panel-cleared ≥7.5]"
+- **Your Message:** "[Transformation statement (panel-cleared ≥7.5)]"
 
 ### Layer 2: Function Level Narrative (Scale Your Impact)
 **For: [Department / function leader]**
 - **Old Way:** "[Current departmental challenge]"
 - **New Way:** "[Transformed departmental state]"
-- **Your Message:** "[Transformation statement — panel-cleared ≥7.5]"
+- **Your Message:** "[Transformation statement (panel-cleared ≥7.5)]"
 
 ### Layer 3: Market Level Narrative (Lasting Brand Power)
 **For: [Market / industry shift]**
 - **Old Way:** "[How the industry currently operates]"
 - **New Way:** "[How the industry is evolving]"
-- **Your Message:** "[Category-defining statement — panel-cleared ≥7.5]"
+- **Your Message:** "[Category-defining statement (panel-cleared ≥7.5)]"
 
 ## Your Market's Transformation Story
 
-**The Shift:** [1–2 paragraphs, specific to this industry — the transformation creating urgency.]
+**The Shift:** [1–2 paragraphs, specific to this industry: the transformation creating urgency.]
 
 **What's At Stake:**
 - [Financial cost, with numbers when possible]
@@ -115,15 +115,15 @@ final CTA, and any unique sections.)*
 1. **[Action]**
    - **Current:** "[What it says now]"
    - **Better:** "[What it should say]"
-2. **[Action]** — Current: "[…]" → Better: "[…]"
-3. **[Action]** — Current: "[…]" → Better: "[…]"
-4. **[Action]** — Current: "[…]" → Better: "[…]"
+2. **[Action]**. Current: "[…]" → Better: "[…]"
+3. **[Action]**. Current: "[…]" → Better: "[…]"
+4. **[Action]**. Current: "[…]" → Better: "[…]"
 
 ### 30-Day Content Calendar
-**Week 1:** "[Specific headline — problem]"
-**Week 2:** "[Specific headline — proof]"
-**Week 3:** "[Specific headline — education / case study]"
-**Week 4:** "[Specific headline — conversion]"
+**Week 1:** "[Specific headline (problem)]"
+**Week 2:** "[Specific headline (proof)]"
+**Week 3:** "[Specific headline (education / case study)]"
+**Week 4:** "[Specific headline (conversion)]"
 
 ### 90-Day Initiatives
 1. **[Scoped project tied to a gap found]**
@@ -132,30 +132,30 @@ final CTA, and any unique sections.)*
 4. **[Scoped project]**
 
 ### 365-Day Vision
-- [Measurable, trackable outcome — pipeline change]
+- [Measurable, trackable outcome (pipeline change)]
 - [Content assets created / positioning achieved]
 - [Proof points gathered]
 - [Search/category presence]
-- [Add a 5th if useful — never "Recognized as THE [category] leader"]
+- [Add a 5th if useful, but never "Recognized as THE [category] leader"]
 
 ## Competitive Positioning Analysis
 
 ### Your Actual Differentiators
-1. **[Differentiator]** — [one paragraph: true, relevant, defensible]
-2. **[Differentiator]** — [one paragraph]
-3. **[Differentiator]** — [one paragraph]
-4. **[Differentiator]** — [one paragraph]
+1. **[Differentiator]:** [one paragraph: true, relevant, defensible]
+2. **[Differentiator]:** [one paragraph]
+3. **[Differentiator]:** [one paragraph]
+4. **[Differentiator]:** [one paragraph]
 
 ### The [Specific] Positioning [Challenge / Opportunity]
-[One section on this company's specific strategic tension — an overused word, a category to own, a
+[One section on this company's specific strategic tension: an overused word, a category to own, a
 perception to overcome, a competitive dynamic, or an identity crisis. Not generic.]
 
 ## The Bigger Picture
 
 [2–3 paragraphs: acknowledge what's working, name the core opportunity, connect to business outcomes,
-end forward-looking. Never end negative; always connect to revenue.]
+end forward-looking. Never end negative. Always connect to revenue.]
 
-## Next Steps — Where to Start
+## Next Steps: Where to Start
 
 **Your rewritten copy (paste-ready):** the panel-cleared lines from this analysis, assembled in order
 so you can paste them straight into your site.
@@ -177,27 +177,27 @@ the Updated-Analysis format).
 
 **Score Only:** [Number]
 
-*Built with the Revenue Messaging Framework — an open methodology by [Colony Spark](https://colonyspark.com).*
+*Built with the Revenue Messaging Framework, an open methodology by [Colony Spark](https://colonyspark.com).*
 
 ── ANALYSIS ENDS HERE ──
 
 ---
 
-## Internal QA Appendix (working notes — not part of the analysis)
+## Internal QA Appendix (working notes, not part of the analysis)
 
 Record each panel-scored piece here (format from [`copywriting-panel.md`](../methodology/copywriting-panel.md)):
 
 ```
-**[Revision name — e.g., Hero revision]**
+**[Revision name, e.g., Hero revision]**
 Dunford: X/10 | Ogilvy: X/10 | Cialdini: X/10 | Schwartz: X/10 | Laja: X/10 | Moesta: X/10
-**Composite: X.X/10** — [SHIPS / REWRITE NEEDED / START OVER]
+**Composite: X.X/10**. [SHIPS / REWRITE NEEDED / START OVER]
 ```
 
 Also note: scope decision, research sources used, and any assumptions flagged.
 
 ---
 
-## Reference: Condensed Worked Example — "BuildFlow ERP" (Score 58/100, Grade C)
+## Reference: Condensed Worked Example, "BuildFlow ERP" (Score 58/100, Grade C)
 
 *A fictional example showing the right format and tone. Use it to calibrate, not to copy.*
 
@@ -210,19 +210,19 @@ choice for your niche.
 
 **What This Score Means:** The ERP market is dominated by SAP, Oracle NetSuite, and Microsoft
 Dynamics, with mid-market challengers Acumatica and Sage. Generic "complete ERP" positioning puts
-BuildFlow in direct competition with all of them; the construction-specific capabilities create a
+BuildFlow in direct competition with all of them. The construction-specific capabilities create a
 niche where it could be the default. *What you're doing right:* purpose-built for construction,
 integrated project costing, 15 years in market, 200+ construction clients, AIA billing. *What you're
 missing:* leading with construction specificity, quantified outcomes, competitive differentiation,
 urgency, proof that generic ERPs fail construction.
 
-**Hero — Recommended Revision:**
+**Hero (Recommended Revision):**
 **"Generic ERPs Don't Understand Construction. We Do."**
 Subhead: "BuildFlow is the only ERP purpose-built for commercial construction. Integrated project
 costing, AIA billing, and job-level profitability in one system. Trusted by 200+ construction
 companies for 15 years."
 
-**RMF — Layer 1 (Construction CFOs):** Old Way: "Forcing generic ERP to handle AIA billing with
+**RMF Layer 1 (Construction CFOs):** Old Way: "Forcing generic ERP to handle AIA billing with
 spreadsheet workarounds" → New Way: "AIA billing, project costing, and job profitability built in
 natively" → **Your Message:** "From Workarounds to Built-In Construction Finance."
 
@@ -231,8 +231,8 @@ construction workflows" → New Way: "Purpose-built technology designed around h
 actually works" → **Your Message:** "Built for Construction. Not Adapted for It."
 
 **The "Complete ERP" Positioning Trap:** "Complete ERP Solution for Modern Businesses" puts you
-against SAP, Oracle, and Microsoft — you'll lose that fight. "The Only ERP Purpose-Built for
-Commercial Construction" puts you in a category of one. Commit to the niche; it's your advantage.
+against SAP, Oracle, and Microsoft. You'll lose that fight. "The Only ERP Purpose-Built for
+Commercial Construction" puts you in a category of one. Commit to the niche. It's your advantage.
 
 **The homepage one-liner to ship first:** "If your ERP can't handle AIA billing natively, it wasn't
 built for construction." That single sentence disqualifies every generic competitor.

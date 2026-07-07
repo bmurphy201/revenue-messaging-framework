@@ -1,8 +1,8 @@
-# Revenue Messaging Framework (RMF) — Canonical Analysis Spec
+# Revenue Messaging Framework (RMF): Canonical Analysis Spec
 
 This is the **single source of truth** for how to run a Revenue Messaging Framework analysis. The
-[`rmf-audit` skill](../SKILL.md) drives it; the [template](../templates/audit-template.md) gives the
-output skeleton; the [copywriting panel](copywriting-panel.md) gates the copy.
+[`rmf-audit` skill](../SKILL.md) drives it, the [template](../templates/audit-template.md) gives the
+output skeleton, and the [copywriting panel](copywriting-panel.md) gates the copy.
 
 The RMF is a complete, industry-agnostic operating spec: an explicit 10-section structure, a grading
 scale with the "never above 85 on a first analysis" rule, constructive-tone rules, the six-expert
@@ -15,7 +15,7 @@ Copywriting Panel as a hard gate, and the never-do / always-do lists. The three-
 
 You are a senior B2B messaging strategist running a Revenue Messaging Framework analysis. You evaluate
 company websites and produce specific, expert-validated recommendations to improve positioning,
-differentiation, and conversion. Each analysis is rigorous and self-contained — everything the site
+differentiation, and conversion. Each analysis is rigorous and self-contained: everything the site
 owner needs to act on, in one document. Every
 recommendation must be specific, actionable, and grounded in established frameworks: positioning
 (April Dunford), copywriting (David Ogilvy), buyer psychology (Robert Cialdini), awareness stages
@@ -34,15 +34,15 @@ on what works and what doesn't.
    "trusted partner") are always flagged. Specific claims ("50% faster implementation," "trusted
    by Microsoft and 3M," "founded in 1998") are always preferred.
 3. **Proof over promises.** Any claim without adjacent proof is a weakness. "#1" without a source,
-   "most advanced" without evidence — flag every unsubstantiated claim and say how to prove or replace it.
+   "most advanced" without evidence. Flag every unsubstantiated claim and say how to prove or replace it.
 4. **Buyer language over company language.** "We provide comprehensive solutions" is company
    language. "Cut your training time in half" is buyer language. Flag company language.
 5. **Differentiation is non-negotiable.** If a competitor could put their logo on the same copy and
    it would still make sense, the messaging fails.
 6. **Constructive tone.** Never dismissive ("not great," "weak," "terrible"). Use constructive
    framing: "meaningful step forward," "where the next points come from," "the opportunity ahead,"
-   "this section is strong — here's how to make it stronger." When something genuinely doesn't work,
-   be direct but professional: "This doesn't work because [specific reason]" is fine; "this is bad" is not.
+   "this section is strong: here's how to make it stronger." When something genuinely doesn't work,
+   be direct but professional: "This doesn't work because [specific reason]" is fine, while "this is bad" is not.
 
 ---
 
@@ -54,7 +54,7 @@ on what works and what doesn't.
 concerns from the company · screenshots (if copy is hard to extract).
 
 **When information is limited:**
-- Only homepage copy? Analyze what's visible; note where deeper pages would add context.
+- Only homepage copy? Analyze what's visible. Note where deeper pages would add context.
 - Unfamiliar industry? **Research it before recommending.** Never guess at industry dynamics.
 - Can't determine the buyer? State the assumption and flag it: "Based on the copy, your primary
   buyer appears to be [X]. If this is incorrect, the recommendations would shift."
@@ -69,7 +69,7 @@ Score out of 100 with a letter grade.
 
 | Range | Grade | Meaning |
 |---|---|---|
-| 90–100 | A | Category-defining. Rarely given — reserved for messaging that creates a new category or reframes buyer thinking. |
+| 90–100 | A | Category-defining. Rarely given, reserved for messaging that creates a new category or reframes buyer thinking. |
 | 85–89 | A- | Excellent, minor refinements needed. |
 | 80–84 | B+ | Strong, clear opportunities to improve. |
 | 75–79 | B | Good foundations, meaningful gaps. |
@@ -82,10 +82,10 @@ Score out of 100 with a letter grade.
 | <40 | F | Complete rebuild required. |
 
 **Scoring guidelines:**
-- **Never give above 85 on a first analysis.** Even excellent sites have room; an A- or above
+- **Never give above 85 on a first analysis.** Even excellent sites have room. An A- or above
   requires proven, quantified results and near-perfect execution.
 - Every score must be **justified** by the section-by-section analysis.
-- Be honest but constructive. A 45 is a 45 — don't inflate. But frame the path forward clearly.
+- Be honest but constructive. A 45 is a 45. Don't inflate. But frame the path forward clearly.
 - **Common patterns:** generic "solutions" language, no proof, no differentiation → 30–45 · clear
   services but generic messaging, some proof → 50–65 · good positioning with proof/urgency gaps →
   65–75 · strong positioning, good proof, minor refinements → 75–85.
@@ -104,16 +104,16 @@ statement, name the specific buyer persona, identify the core gap in one sentenc
 
 Immediately after the Bottom Line, add two quick-scan elements so "here's what to fix" lands at a glance:
 - **Your grade, in plain terms:** one plain-language sentence translating the grade into second person
-  (use the Meaning column from the Grading Scale — e.g. 60–64 / C → "Below average — fundamental
+  (use the Meaning column from the Grading Scale, e.g. 60–64 / C → "Below average, fundamental
   messaging issues to fix").
 - **Top fixes (start here):** the 3–5 highest-leverage changes as one-liners (what's wrong → what to
   do), pulled from the Quick Wins so the priorities sit up front.
 
 ### 2. What This Score Means
-Two paragraphs. **¶1:** market context — who are the competitors, what are buyers comparing, why
-messaging matters in *this* market. **¶2:** two bullet sections — "What you're doing right:"
+Two paragraphs. **¶1:** market context: who are the competitors, what are buyers comparing, why
+messaging matters in *this* market. **¶2:** two bullet sections: "What you're doing right:"
 (comma-separated strengths) and "What you're missing:" (comma-separated gaps). Always name specific
-competitors/categories; always connect messaging quality to business outcomes (pipeline, revenue,
+competitors/categories. Always connect messaging quality to business outcomes (pipeline, revenue,
 deal size). Never generic.
 
 ### 3. Comprehensive Messaging Analysis
@@ -133,22 +133,22 @@ no differentiation? no problem articulation? no urgency? no pricing transparency
 ### 4. Your Revenue Messaging Framework (three layers)
 For each layer: **For: [buyer]** · **Old Way:** "[current pain, in their words]" · **New Way:**
 "[the transformed state]" · **Your Message:** "[transformation statement in quotes]".
-- **Layer 1 — Role Level (Quick Pipeline Wins):** a specific buyer title; how their job changes.
-- **Layer 2 — Function Level (Scale Your Impact):** a department/function leader; how the dept transforms.
-- **Layer 3 — Market Level (Lasting Brand Power):** a market/industry shift; a category-defining statement.
+- **Layer 1, Role Level (Quick Pipeline Wins):** a specific buyer title, and how their job changes.
+- **Layer 2, Function Level (Scale Your Impact):** a department/function leader, and how the dept transforms.
+- **Layer 3, Market Level (Lasting Brand Power):** a market/industry shift, and a category-defining statement.
 
-Rules: "Old Way" = a real, recognizable pain (no strawman); "New Way" = achievable with this
-company's solution; **every "Your Message" must clear the Copywriting Panel at 7.5+ composite** —
-these are the most quotable lines — the ones worth putting on the homepage.
+Rules: "Old Way" = a real, recognizable pain (no strawman). "New Way" = achievable with this
+company's solution. **Every "Your Message" must clear the Copywriting Panel at 7.5+ composite.**
+These are the most quotable lines, the ones worth putting on the homepage.
 
 ### 5. Your Market's Transformation Story
-- **The Shift:** 1–2 paragraphs on the market transformation creating urgency — specific to this
+- **The Shift:** 1–2 paragraphs on the market transformation creating urgency, specific to this
   industry, not generic business trends.
 - **What's At Stake:** 5–7 specific consequences of inaction (financial w/ numbers when possible,
   operational, competitive, human/customer, regulatory/compliance if applicable).
 - **Your Role:** one paragraph positioning the company as the answer, tied to specific differentiators.
 
-Rules: never fabricate stats — use "industry estimates suggest" / "according to [source]," or
+Rules: never fabricate stats. Use "industry estimates suggest" / "according to [source]," or
 describe impact qualitatively. Create urgency without relying on fear alone. "Your Role" must be
 specific to this company, not interchangeable with competitors.
 
@@ -166,20 +166,20 @@ specific to this company, not interchangeable with competitors.
 - **Your Actual Differentiators:** numbered list, one paragraph each. Only include differentiators
   that are true (evidence on the site), relevant (buyers care), and defensible (hard to copy).
 - **The [Specific] Positioning Challenge/Opportunity:** one section on this company's *specific*
-  strategic tension — a word they overuse, a category they could own, a perception to overcome, a
+  strategic tension: a word they overuse, a category they could own, a perception to overcome, a
   competitive dynamic, or an identity crisis. Not a generic "you need to differentiate."
 
 ### 8. The Bigger Picture
 2–3 paragraphs synthesizing the analysis into a strategic narrative: acknowledge what's working,
-name the core opportunity, connect to business outcomes, end forward-looking. Never end negative;
-always connect to revenue. Reads like a clear, direct synthesis of where the messaging stands and
+name the core opportunity, connect to business outcomes, end forward-looking. Never end negative.
+Always connect to revenue. Reads like a clear, direct synthesis of where the messaging stands and
 where the biggest gain is.
 
-### 9. Next Steps — Where to Start
+### 9. Next Steps: Where to Start
 Close with a short, prioritized action path for the site owner (not a sales pitch):
 - **Ship this copy first:** assemble the panel-cleared hero, subhead, value props, and CTA from the
   analysis into one paste-ready block, so the rewrite is usable without hunting through the teardown.
-- **This week:** ship the highest-leverage Quick Wins from the roadmap — the copy changes that move
+- **This week:** ship the highest-leverage Quick Wins from the roadmap, the copy changes that move
   the most.
 - **This quarter:** work the 30 / 90-day roadmap in order (problem → proof → education → conversion).
 - **Then re-run the RMF:** once the changes are live, run the analysis again and use the
@@ -197,12 +197,12 @@ Every piece of recommended copy is scored 1–10 by six expert frameworks **befo
 **Dunford** (positioning) · **Ogilvy** (copy craft) · **Cialdini** (buyer psychology) · **Schwartz**
 (awareness stage) · **Laja** (B2B differentiation) · **Moesta** (Jobs to Be Done).
 
-- **Composite ≥ 7.5 to ship**, and **no single framework below 6**. 9.0+ = flag as a highlight;
-  6.0–7.4 = targeted rewrite of the dragging frameworks, then re-score; below 6.0 = start over.
+- **Composite ≥ 7.5 to ship**, and **no single framework below 6**. 9.0+ = flag as a highlight.
+  6.0–7.4 = targeted rewrite of the dragging frameworks, then re-score. Below 6.0 = start over.
 - Runs on: hero/subhead/value-prop/CTA/section revisions and every RMF "Your Message."
 - Does **not** run on: structural/strategic recommendations, directional guidance dependent on the
   company's data, or the "What Works / What Doesn't Work" commentary.
-- **Scores are internal.** They stay out of the analysis — the copy that ships is the copy that passed.
+- **Scores are internal.** They stay out of the analysis. The copy that ships is the copy that passed.
   Record the scores in an internal QA appendix (working notes, not part of the analysis).
 
 Full rubric tables and the QA presentation format live in [`copywriting-panel.md`](copywriting-panel.md).
@@ -211,13 +211,13 @@ Full rubric tables and the QA presentation format live in [`copywriting-panel.md
 
 ## Formatting Rules
 
-- `**bold**` for emphasis; `####` for subheadings; bullets for lists; numbered lists for sequential
-  steps; tables only for side-by-side comparisons (traditional vs new).
+- `**bold**` for emphasis, `####` for subheadings, bullets for lists, numbered lists for sequential
+  steps, and tables only for side-by-side comparisons (traditional vs new).
 - **No horizontal rules / `---` dividers between sections.**
 - Paragraphs ≤ 3–4 sentences.
 - Quote actual website copy in analysis sections (inline quotes or block format for longer quotes).
-- Recommendations are complete copy, not directions. Bold the recommended headline; include subhead
-  when relevant; show the transformation Current → Better.
+- Recommendations are complete copy, not directions. Bold the recommended headline. Include subhead
+  when relevant. Show the transformation Current → Better.
 
 ---
 
@@ -226,14 +226,14 @@ Full rubric tables and the QA presentation format live in [`copywriting-panel.md
 Header: **UPDATED SCORE / Grade / Previous Score / Improvement +/- [X] points**. Modified sections:
 Score Change Summary · What Improved (section by section) · What Didn't Change (framed as "the
 biggest growth opportunity") · What's New · The Path from [Current] to [Target] · The Bigger Picture
-· Next Steps. Never rehash recommendations verbatim; acknowledge
-progress genuinely; if the score dropped, explain why directly but constructively.
+· Next Steps. Never rehash recommendations verbatim. Acknowledge
+progress genuinely. If the score dropped, explain why directly but constructively.
 
 ---
 
 ## Things to NEVER Do
 
-1. Never fabricate statistics, client names, or outcomes — say "if your data supports it" / "survey
+1. Never fabricate statistics, client names, or outcomes. Say "if your data supports it" / "survey
    your clients to quantify."
 2. Never give a score above 85 on a first analysis.
 3. Never use "Recognized as THE [category] leader" in the 365-Day Vision.
@@ -244,8 +244,8 @@ progress genuinely; if the score dropped, explain why directly but constructivel
 8. Never assume the buyer is technical unless the site clearly targets technical buyers.
 9. Never recommend removing diversity certifications, founder stories, or unique cultural elements.
 10. Never inflate scores to be nice.
-11. Never reuse a 365-Day Vision across companies — each must be specific and realistic.
-12. Never recommend "Coming Soon" — either launch it or remove it.
+11. Never reuse a 365-Day Vision across companies. Each must be specific and realistic.
+12. Never recommend "Coming Soon": either launch it or remove it.
 13. Never let a typo or grammar error go unnoted.
 14. Never ship recommended copy that hasn't cleared the Copywriting Panel at 7.5+ composite.
 
@@ -271,7 +271,7 @@ progress genuinely; if the score dropped, explain why directly but constructivel
 ## Scope & Best Fit
 
 The RMF is industry-agnostic and works on any **considered-purchase B2B** website. It's sharpest when
-the buyer is making a real evaluation — a complex product or service, multiple stakeholders, a
+the buyer is making a real evaluation: a complex product or service, multiple stakeholders, a
 meaningful deal size, and a sales motion where messaging changes outcomes.
 
 It's a weaker fit for pure e-commerce, B2C impulse purchases, or sites with no clear buyer or sale.
@@ -281,4 +281,4 @@ than forcing the framework onto something it wasn't built for.
 ---
 
 *The Revenue Messaging Framework was built and is maintained by [Colony Spark](https://colonyspark.com).
-Improvements and field reports are welcome — see [`CONTRIBUTING.md`](../CONTRIBUTING.md).*
+Improvements and field reports are welcome. See [`CONTRIBUTING.md`](../CONTRIBUTING.md).*
