@@ -7,17 +7,17 @@ Driver: [`SKILL.md`](../SKILL.md)
 
 ## How to use this template
 1. Do the **scope check** first (see the spec). Off-profile → say so and adjust before proceeding.
-2. Copy everything under **── DELIVERABLE STARTS HERE ──** into the new analysis.
-3. Replace every `[bracketed]` placeholder. Keep section order. Keep the verbatim RMF block (Section 2).
+2. Copy everything under **── ANALYSIS STARTS HERE ──** into the new analysis.
+3. Replace every `[bracketed]` placeholder. Keep section order.
 4. Run the Copywriting Panel internally on all recommended copy; only paste copy that cleared 7.5+.
-5. Keep panel scores in the **Internal QA Appendix** at the bottom — that part is NOT delivered.
+5. Keep panel scores in the **Internal QA Appendix** at the bottom — those are working notes, not part of the analysis.
 
 Formatting reminders: no `---` dividers between sections · paragraphs ≤4 sentences · quote actual copy ·
 recommendations are complete copy, not directions · never score above 85 on a first analysis.
 
 ---
 
-── DELIVERABLE STARTS HERE ──
+── ANALYSIS STARTS HERE ──
 
 **SCORE: [X]/100**
 **Grade: [Letter Grade]**
@@ -30,22 +30,15 @@ recommendations are complete copy, not directions · never score above 85 on a f
 sentence]. [What doesn't work in one sentence]. For [specific buyer persona] evaluating [what they're
 evaluating], [the core gap or opportunity].
 
-## What is the Revenue Messaging Framework?
+**Your grade, in plain terms:** [one plain-language sentence — translate the grade into second person
+using the grading-scale Meaning column, e.g. "Below average — fundamental messaging issues to fix."]
 
-**The Revenue Messaging Framework (RMF) is the foundation of modern B2B messaging.** Instead of
-listing features or benefits, it focuses on the transformation your buyers seek from their current
-painful state to their desired future state.
+**Top fixes (start here):**
+1. [Highest-leverage change — what's wrong → what to do]
+2. [Next highest-leverage change]
+3. [Next highest-leverage change]
 
-The framework operates on three levels:
-- **Role Level:** How individual executives see their specific job changing
-- **Function Level:** How entire departments must transform to stay competitive
-- **Market Level:** How whole industries are evolving, creating urgency to act
-
-**Why this matters:** Companies don't buy products. They buy transformation. The RMF helps you
-articulate the journey from "old way" to "new way" at every level of your buyer's organization,
-creating urgency and positioning you as essential to their future success.
-
-## Why This Score Impacts Your Growth
+## What This Score Means
 
 [¶1 — Market context: name the real competitors/categories, what buyers are comparing, why messaging
 matters in THIS market, and how it ties to pipeline/revenue/deal size.]
@@ -82,7 +75,7 @@ final CTA, and any unique sections.)*
 - **[Missing element]** — [what's absent and the cost of it]
 - **[Missing element]** — [what's absent and the cost of it]
 
-## Your Personalized Revenue Messaging Framework
+## Your Revenue Messaging Framework
 
 ### Layer 1: Role Level Narrative (Quick Pipeline Wins)
 **For: [Specific buyer title]**
@@ -164,6 +157,13 @@ end forward-looking. Never end negative; always connect to revenue.]
 
 ## Next Steps — Where to Start
 
+**Your rewritten copy (paste-ready):** the panel-cleared lines from this analysis, assembled in order
+so you can paste them straight into your site.
+- **Hero:** [panel-cleared hero]
+- **Subhead:** [panel-cleared subhead]
+- **Value props:** [panel-cleared value props]
+- **Primary CTA:** [panel-cleared CTA]
+
 **This week:** [the 1–2 highest-leverage quick wins to ship first.]
 
 **This quarter:** [work the 30 / 90-day roadmap in order.]
@@ -179,11 +179,11 @@ the Updated-Analysis format).
 
 *Built with the Revenue Messaging Framework — an open methodology by [Colony Spark](https://colonyspark.com).*
 
-── DELIVERABLE ENDS HERE ──
+── ANALYSIS ENDS HERE ──
 
 ---
 
-## Internal QA Appendix (NOT delivered)
+## Internal QA Appendix (working notes — not part of the analysis)
 
 Record each panel-scored piece here (format from [`copywriting-panel.md`](../methodology/copywriting-panel.md)):
 
@@ -208,7 +208,7 @@ that specificity under language that tries to appeal to everyone. For constructi
 directors evaluating ERP systems, you're invisible in a crowded market when you should be the obvious
 choice for your niche.
 
-**Why This Score Impacts Growth:** The ERP market is dominated by SAP, Oracle NetSuite, and Microsoft
+**What This Score Means:** The ERP market is dominated by SAP, Oracle NetSuite, and Microsoft
 Dynamics, with mid-market challengers Acumatica and Sage. Generic "complete ERP" positioning puts
 BuildFlow in direct competition with all of them; the construction-specific capabilities create a
 niche where it could be the default. *What you're doing right:* purpose-built for construction,

@@ -28,7 +28,7 @@ that gates every rewrite — because good positioning shouldn't be a black box.
 
 ## What it does
 
-Give it a company name and a URL (or pasted homepage copy) and it produces a single deliverable:
+Give it a company name and a URL (or pasted homepage copy) and it produces a single analysis:
 
 - **A messaging score (0–100) and letter grade**, justified section by section.
 - **A section-by-section teardown** — every visible block (hero, value props, social proof, CTAs,
@@ -74,12 +74,20 @@ breakdown behind the score.
 
 | Piece | File |
 |---|---|
-| The full analysis spec — 11-section structure, grading scale, the rules | [`methodology/revenue-messaging-framework.md`](methodology/revenue-messaging-framework.md) |
+| The full analysis spec — 10-section structure, grading scale, the rules | [`methodology/revenue-messaging-framework.md`](methodology/revenue-messaging-framework.md) |
 | The six-expert copywriting panel that gates every rewrite | [`methodology/copywriting-panel.md`](methodology/copywriting-panel.md) |
 | The fill-in output skeleton + worked example | [`templates/audit-template.md`](templates/audit-template.md) |
 | The Claude Code skill that drives it | [`SKILL.md`](SKILL.md) |
 
 ## Use it
+
+**Quickstart — run it on your own site.**
+1. Grab your homepage copy (or just the URL).
+2. Paste `methodology/revenue-messaging-framework.md` to any capable model as its instructions, or use
+   the Claude Code skill setup below.
+3. Ask: *"Run an RMF on [Company] — [url] — here's our homepage copy: …"*
+
+You get back a scored, section-by-section teardown and the rewritten copy.
 
 **As a Claude Code skill.** Drop `SKILL.md` (and the `methodology/` and `templates/` files it
 references) into your project's `.claude/skills/rmf-audit/` directory, then ask Claude to

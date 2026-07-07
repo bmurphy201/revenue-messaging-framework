@@ -1,6 +1,6 @@
 ---
 name: rmf-audit
-description: Run a Revenue Messaging Framework (RMF) analysis on your own (or any) B2B website — score the messaging out of 100, tear it down section by section, and rewrite it. Invoke when asked to "run an RMF", "score a website's messaging", "do a messaging teardown/audit", or "Revenue Messaging Framework analysis". Produces an 11-section deliverable with every recommended rewrite gated by a six-expert copywriting panel. Built by Colony Spark (https://colonyspark.com).
+description: Run a Revenue Messaging Framework (RMF) analysis on your own (or any) B2B website — score the messaging out of 100, tear it down section by section, and rewrite it. Invoke when asked to "run an RMF", "score a website's messaging", "do a messaging teardown/audit", or "Revenue Messaging Framework analysis". Produces a 10-section analysis with every recommended rewrite gated by a six-expert copywriting panel. Built by Colony Spark (https://colonyspark.com).
 ---
 
 # RMF Audit
@@ -33,37 +33,37 @@ pure e-commerce or B2C impulse, say so and adjust expectations before proceeding
 ### 2. Research (ground it — never guess, never fabricate)
 - Fetch the homepage + the highest-signal pages (Services/Products, About/Team, Pricing, any
   "Compare/Why-us", case studies, recent blog/POV posts).
-- Identify the real competitors / competitive category (named in Sections 3 & 8).
+- Identify the real competitors / competitive category (named in Sections 2 & 7).
 - Verify proof and credibility on the site (named clients, stats, founder credentials). If a claim
   isn't verifiable, flag it — don't invent data, client names, or outcomes.
 
-### 3. Run the analysis — 11 sections, exact order
+### 3. Run the analysis — 10 sections, exact order
 Drive from [`templates/audit-template.md`](templates/audit-template.md), applying every rule in
 [`methodology/revenue-messaging-framework.md`](methodology/revenue-messaging-framework.md):
-Bottom Line → verbatim *What is the RMF?* block → Why This Score → Comprehensive Analysis (+ Missing
-Elements) → 3-layer RMF → Transformation Story → Roadmap → Competitive Positioning → Bigger Picture →
-Next Steps → Grade/Score tags. Honor the grading scale (**never above 85 on a first
+Bottom Line → What This Score Means → Comprehensive Analysis (+ Missing Elements) → 3-layer RMF →
+Transformation Story → Roadmap → Competitive Positioning → Bigger Picture → Next Steps → Grade/Score
+tags. Honor the grading scale (**never above 85 on a first
 analysis**), constructive tone, no `---` dividers, and the never-do/always-do lists.
 
 ### 4. Run the copywriting panel internally (during drafting, not after)
 Score every recommended revision and every RMF "Your Message" against the six experts
 ([`copywriting-panel.md`](methodology/copywriting-panel.md)). Ship only
 copy that clears **7.5 composite and ≥6 on every framework**; rewrite the rest and re-score. Keep
-scores in an internal QA appendix — never in the delivered analysis.
+scores in an internal QA appendix — never in the analysis itself.
 
-### 5. Deliver
-Output the full 11-section analysis — a self-contained messaging audit the site owner can act on.
+### 5. Output
+Output the full 10-section analysis — a self-contained messaging audit the site owner can act on.
 
 ## Outputs (checklist)
 
 - [ ] Scope checked
-- [ ] 11-section analysis produced
+- [ ] 10-section analysis produced
 - [ ] All recommended copy cleared the panel; scores kept in an internal QA appendix
 
 ## Anti-patterns
 
 - Running the analysis before researching the company.
-- Shipping copy that didn't clear the panel, or showing panel scores to the reader.
+- Shipping copy that didn't clear the panel, or leaving panel scores in the analysis.
 - Fabricating stats, client names, or outcomes to fill a section.
 - Scoring above 85 on a first analysis, or inflating to be nice.
 

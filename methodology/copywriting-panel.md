@@ -7,8 +7,8 @@ ships in an analysis. **Threshold: 7.5 composite average, AND no single framewor
 
 Every piece of recommended copy in an RMF analysis is scored against six expert frameworks **before
 inclusion**. This is not pass/fail — each framework scores 1–10. Copy below threshold gets rewritten
-until it clears. **The copy that ships is always copy that passed.** Scores are internal; the reader
-of the analysis never sees them.
+until it clears. **The copy that ships is always copy that passed.** Scores are working notes; they stay
+out of the analysis itself.
 
 ---
 
@@ -106,7 +106,7 @@ Work" analysis commentary.
 
 ## QA Presentation Format (internal only)
 
-When recording the panel as a QA step (kept in an internal appendix, never in the delivered analysis):
+When recording the panel as a QA step (kept in an internal appendix, not part of the analysis itself):
 
 ```
 **[Revision Name]**
