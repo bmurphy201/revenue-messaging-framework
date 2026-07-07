@@ -1,6 +1,6 @@
 # Revenue Messaging Framework (RMF)
 
-**An open methodology and Claude Code skill for auditing and rewriting B2B website messaging.**
+**An open methodology and Claude Code skill for auditing and rewriting B2B website copy: messaging, positioning, and value proposition.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
 [![Built by Colony Spark](https://img.shields.io/badge/built%20by-Colony%20Spark-ff5a1f.svg)](https://colonyspark.com)
@@ -118,7 +118,9 @@ copywriting lens applied in isolation. The RMF is neither.
 
 Any team selling a considered-purchase B2B product or service: founders, GTM leads, product
 marketers, and consultants who need to know exactly where their messaging is leaking and what to say
-instead. Colony Spark built it for founder-led vendors selling into the industrial economy, but the
+instead. Whatever you call it (positioning, messaging, value proposition, conversion copywriting, or
+just your website copy), the RMF finds what's weak and rewrites it. Colony Spark built it for
+founder-led vendors selling into the industrial economy, but the
 framework works in any industry. It's a weaker fit for pure e-commerce or B2C impulse purchases,
 where there's no considered buying decision to evaluate.
 
