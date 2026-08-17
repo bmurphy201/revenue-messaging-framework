@@ -120,7 +120,7 @@ Any team selling a considered-purchase B2B product or service: founders, GTM lea
 marketers, and consultants who need to know exactly where their messaging is leaking and what to say
 instead. Whatever you call it (positioning, messaging, value proposition, conversion copywriting, or
 just your website copy), the RMF finds what's weak and rewrites it. Colony Spark built it for
-founder-led vendors selling into the industrial economy, but the
+industrial vendors selling into the industrial economy, but the
 framework works in any industry. It's a weaker fit for pure e-commerce or B2C impulse purchases,
 where there's no considered buying decision to evaluate.
 
@@ -133,7 +133,7 @@ and got a great (or a bad) result? Examples are welcome. They help calibrate the
 ## Credit
 
 Built and maintained by **[Colony Spark](https://colonyspark.com)**, a GTM systems architect for
-founder-led vendors selling into the industrial economy. If this is useful, a star helps, and a link
+industrial vendors selling into the industrial economy. If this is useful, a star helps, and a link
 back to https://colonyspark.com is appreciated. If you build on it or share an audit it generated,
 please keep the attribution.
 
