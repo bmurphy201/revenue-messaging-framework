@@ -9,11 +9,13 @@ Driver: [`SKILL.md`](../SKILL.md)
 1. Do the **scope check** first (see the spec). Off-profile → say so and adjust before proceeding.
 2. Copy everything under **── ANALYSIS STARTS HERE ──** into the new analysis.
 3. Replace every `[bracketed]` placeholder. Keep section order.
-4. Run the Copywriting Panel internally on all recommended copy. Only paste copy that cleared 7.5+.
+4. Run the plain-English check on all recommended copy, then the Copywriting Panel. Only paste copy
+   that cleared 7.5+, and keep rewriting and re-scoring until a round stops raising the composite.
 5. Keep panel scores in the **Internal QA Appendix** at the bottom. Those are working notes, not part of the analysis.
 
-Formatting reminders: no `---` dividers between sections · paragraphs ≤4 sentences · quote actual copy ·
-recommendations are complete copy, not directions · never score above 85 on a first analysis.
+Formatting reminders: no `---` dividers between sections · short beats of 1-2 sentences · each labeled
+field on its own line · every list a real list · quote actual copy · recommendations are complete copy,
+not directions · never score above 85 on a first analysis.
 
 ---
 
@@ -34,20 +36,24 @@ evaluating], [the core gap or opportunity].
 using the grading-scale Meaning column, e.g. "Below average. Fundamental messaging issues to fix."]
 
 **Top fixes (start here):**
-1. [Highest-leverage change: what's wrong → what to do]
-2. [Next highest-leverage change]
-3. [Next highest-leverage change]
+1. [The change worth making first: what's wrong → what to do]
+2. [The next change]
+3. [The next change]
 
 ## What This Score Means
 
 [¶1. Market context: name the real competitors/categories, what buyers are comparing, why messaging
 matters in THIS market, and how it ties to pipeline/revenue/deal size.]
 
-**What you're doing right:** [comma-separated strengths].
+**What you're doing right:**
+- [Strength]
+- [Strength]
 
-**What you're missing:** [comma-separated gaps].
+**What you're missing:**
+- [Gap]
+- [Gap]
 
-## Comprehensive Messaging Analysis
+## Section-by-Section Messaging Analysis
 
 ### Section 1: [Section Name]
 
@@ -97,7 +103,7 @@ final CTA, and any unique sections.)*
 
 ## Your Market's Transformation Story
 
-**The Shift:** [1–2 paragraphs, specific to this industry: the transformation creating urgency.]
+**The Shift:** [1-2 paragraphs, specific to this industry: the transformation creating urgency.]
 
 **What's At Stake:**
 - [Financial cost, with numbers when possible]
@@ -105,7 +111,7 @@ final CTA, and any unique sections.)*
 - [Competitive risk]
 - [Human/customer impact]
 - [Regulatory/compliance risk, if applicable]
-- [Add 1–2 more to reach 5–7 total]
+- [Add 1-2 more to reach 5-7 total]
 
 **Your Role:** [One paragraph positioning the company as the answer, tied to its specific differentiators.]
 
@@ -152,7 +158,7 @@ perception to overcome, a competitive dynamic, or an identity crisis. Not generi
 
 ## The Bigger Picture
 
-[2–3 paragraphs: acknowledge what's working, name the core opportunity, connect to business outcomes,
+[2-3 paragraphs: acknowledge what's working, name the core opportunity, connect to business outcomes,
 end forward-looking. Never end negative. Always connect to revenue.]
 
 ## Next Steps: Where to Start
@@ -164,7 +170,7 @@ so you can paste them straight into your site.
 - **Value props:** [panel-cleared value props]
 - **Primary CTA:** [panel-cleared CTA]
 
-**This week:** [the 1–2 highest-leverage quick wins to ship first.]
+**This week:** [the 1-2 quick wins to ship first, starting with the hero or primary CTA.]
 
 **This quarter:** [work the 30 / 90-day roadmap in order.]
 
@@ -190,10 +196,11 @@ Record each panel-scored piece here (format from [`copywriting-panel.md`](../met
 ```
 **[Revision name, e.g., Hero revision]**
 Dunford: X/10 | Ogilvy: X/10 | Cialdini: X/10 | Schwartz: X/10 | Laja: X/10 | Moesta: X/10
-**Composite: X.X/10**. [SHIPS / REWRITE NEEDED / START OVER]
+**Composite: X.X/10** (rounds: N, composite by round: X.X, X.X, X.X). [SHIPS / REWRITE NEEDED / START OVER]
 ```
 
-Also note: scope decision, research sources used, and any assumptions flagged.
+Also note: scope decision, research sources used, lines the plain-English check rewrote, and any
+assumptions flagged.
 
 ---
 
@@ -210,31 +217,43 @@ choice for your niche.
 
 **What This Score Means:** The ERP market is dominated by SAP, Oracle NetSuite, and Microsoft
 Dynamics, with mid-market challengers Acumatica and Sage. Generic "complete ERP" positioning puts
-BuildFlow in direct competition with all of them. The construction-specific capabilities create a
-niche where it could be the default. *What you're doing right:* purpose-built for construction,
-integrated project costing, 15 years in market, 200+ construction clients, AIA billing. *What you're
-missing:* leading with construction specificity, quantified outcomes, competitive differentiation,
-urgency, proof that generic ERPs fail construction.
+BuildFlow in direct competition with all of them.
+
+The construction-specific capabilities create a niche where it could be the default. Construction
+ERPs compete for the same buyers, though, so inside the niche the proof has to separate BuildFlow:
+the client count, the years in market and the case study.
+
+*What you're doing right:*
+- Purpose-built for construction
+- Integrated project costing and native AIA billing
+- 15 years in market and 200+ construction clients
+- One case study with a hard number: a 140-person commercial GC cut pay-app prep from five days to one
+
+*What you're missing:*
+- Leading with construction specificity
+- That case-study number where buyers will see it, and a named customer behind it
+- Competitive differentiation and urgency
+- Proof that generic ERPs fail construction
 
 **Hero (Recommended Revision):**
-**"Generic ERPs Don't Understand Construction. We Do."**
-Subhead: "BuildFlow is the only ERP purpose-built for commercial construction. Integrated project
-costing, AIA billing, and job-level profitability in one system. Trusted by 200+ construction
-companies for 15 years."
 
-**RMF Layer 1 (Construction CFOs):** Old Way: "Forcing generic ERP to handle AIA billing with
-spreadsheet workarounds" → New Way: "AIA billing, project costing, and job profitability built in
-natively" → **Your Message:** "From Workarounds to Built-In Construction Finance."
+**"See Every Job's Margin Before the AIA Pay App Goes Out"**
 
-**Layer 3 (the construction-tech shift):** Old Way: "Adapting generic business software to
-construction workflows" → New Way: "Purpose-built technology designed around how construction
-actually works" → **Your Message:** "Built for Construction. Not Adapted for It."
+Subhead: "BuildFlow runs job costing, AIA billing, and job-level profitability in one ERP built for
+commercial construction. It has served more than 200 construction companies over 15 years, and one
+140-person commercial GC cut pay-app prep from five days to one."
+
+**RMF Layer 1 (Construction CFOs)**
+
+Old Way: "Forcing generic ERP to handle AIA billing with spreadsheet workarounds"
+
+New Way: "Pay apps built straight from job costs inside one system"
+
+Your Message: **"From Five-Day Pay Apps to One-Day, With No Spreadsheet in Between"**
 
 **The "Complete ERP" Positioning Trap:** "Complete ERP Solution for Modern Businesses" puts you
-against SAP, Oracle, and Microsoft. You'll lose that fight. "The Only ERP Purpose-Built for
-Commercial Construction" puts you in a category of one. Commit to the niche. It's your advantage.
-
-**The homepage one-liner to ship first:** "If your ERP can't handle AIA billing natively, it wasn't
-built for construction." That single sentence disqualifies every generic competitor.
+against SAP, Oracle, and Microsoft, three companies with far bigger brands and budgets. Leading with
+commercial construction means buyers judge BuildFlow on construction fit, where its 15 years, 200+
+construction clients and native AIA billing are real advantages.
 
 **Grade Only:** C · **Score Only:** 58
