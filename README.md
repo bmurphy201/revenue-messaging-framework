@@ -11,9 +11,9 @@ messaging out of 100, tears it down section by section, and hands back rewritten
 the value props, the CTAs, and a full three-layer narrative. You end up knowing exactly what to change
 on your own site.
 
-Colony Spark built it and uses it on real go-to-market engagements. We open-sourced the whole thing:
-the spec, the grading scale, and the six-expert copywriting panel that gates every rewrite. Good
-positioning shouldn't be a black box.
+Colony Spark built it and uses it on real go-to-market engagements. We published all of it, including
+the spec, the grading scale and the six-expert copywriting panel that gates every rewrite, so you can
+see exactly how a score gets made and argue with any part of it.
 
 ## Contents
 
@@ -23,6 +23,7 @@ positioning shouldn't be a black box.
 - [Use it](#use-it)
 - [Why it's different](#why-its-different)
 - [Who it's for](#who-its-for)
+- [What changed in October 2026](#what-changed-in-october-2026)
 - [Contributing](#contributing)
 - [Credit](#credit)
 
@@ -39,43 +40,48 @@ Give it a company name and a URL (or pasted homepage copy). You get one analysis
 - Competitive positioning: your real differentiators, and the one positioning trap to escape.
 - A prioritized place to start, so you know which quick wins to ship this week.
 
-Every rewritten line gets scored against six expert frameworks: Dunford (positioning), Ogilvy (copy
-craft), Cialdini (buyer psychology), Schwartz (awareness stages), Laja (differentiation), and Moesta
-(Jobs to Be Done). Only copy that clears the bar ships.
+Every rewritten line goes through a plain-English check first, which turns dramatic, mannered phrasing
+into plain statements. Then it gets scored against six expert frameworks: Dunford (positioning), Ogilvy
+(copy craft), Cialdini (buyer psychology), Schwartz (awareness stages), Laja (differentiation), and
+Moesta (Jobs to Be Done). A line ships once it clears the threshold and further rewrites stop raising
+its score.
 
 ## Example
 
-Here's the kind of rewrite the RMF produces, pulled from the worked example in the
-[output template](templates/audit-template.md) (a fictional construction-ERP vendor, scored 58/100,
-grade C):
+Here's the kind of rewrite the RMF produces, based on the worked example in the
+[output template](templates/audit-template.md). The company is BuildFlow, a fictional
+construction-ERP vendor that scored 58/100, grade C.
 
 > **Current hero:** "The Complete ERP Solution for Modern Businesses"
 >
-> **Why it fails:** Generic enough to describe hundreds of ERP systems. It puts the company head to
-> head with SAP, Oracle NetSuite, and Microsoft Dynamics, a fight it can't win, and buries a real
-> differentiator (purpose-built for commercial construction) under language that tries to appeal to
-> everyone.
+> **Why it fails:** It could describe hundreds of ERP systems. It puts the company head to head with
+> SAP, Oracle NetSuite, and Microsoft Dynamics, companies with far bigger brands and budgets, and it
+> buries a real differentiator (purpose-built for commercial construction) under language meant to
+> appeal to everyone.
 >
 > **Recommended revision:**
-> **"Generic ERPs Don't Understand Construction. We Do."**
-> *Subhead: BuildFlow is the only ERP purpose-built for commercial construction. Integrated
-> project costing, AIA billing, and job-level profitability in one system. Trusted by 200+
-> construction companies for 15 years.*
 >
-> **The positioning trap it escapes:** "Complete ERP Solution for Modern Businesses" competes
-> against every ERP on earth. "The Only ERP Purpose-Built for Commercial Construction" creates a
-> category of one. That's the trade the RMF is built to find, on every site it runs on.
+> **"See Every Job's Margin Before the AIA Pay App Goes Out"**
+>
+> *BuildFlow runs job costing, AIA billing, and job-level profitability in one ERP built for
+> commercial construction. It has served more than 200 construction companies over 15 years, and one
+> 140-person commercial GC cut pay-app prep from five days to one.*
+>
+> **The positioning trap it escapes:** "Complete ERP Solution for Modern Businesses" competes with
+> every ERP on the market. Leading with commercial construction means buyers judge BuildFlow on
+> construction fit, where its 15 years, 200+ construction clients and native AIA billing are real
+> advantages.
 
-The [full worked example](templates/audit-template.md) (near the bottom of the template) shows the
-complete teardown: every section, the full three-layer messaging framework, and the grading
-breakdown behind the score.
+The [worked example](templates/audit-template.md) at the bottom of the template is a condensed
+analysis. It shows the bottom line, what the score means, the hero rewrite and the first layer of
+the messaging framework.
 
 ## How the framework works
 
 | Piece | File |
 |---|---|
 | The full analysis spec: 10-section structure, grading scale, the rules | [`methodology/revenue-messaging-framework.md`](methodology/revenue-messaging-framework.md) |
-| The six-expert copywriting panel that gates every rewrite | [`methodology/copywriting-panel.md`](methodology/copywriting-panel.md) |
+| The plain-English check and the six-expert copywriting panel that gate every rewrite | [`methodology/copywriting-panel.md`](methodology/copywriting-panel.md) |
 | The fill-in output skeleton and worked example | [`templates/audit-template.md`](templates/audit-template.md) |
 | The Claude Code skill that drives it | [`SKILL.md`](SKILL.md) |
 
@@ -83,8 +89,8 @@ breakdown behind the score.
 
 **Quickstart: run it on your own site.**
 1. Grab your homepage copy (or just the URL).
-2. Paste `methodology/revenue-messaging-framework.md` to any capable model as its instructions, or use
-   the Claude Code skill setup below.
+2. Give any capable model the two files in `methodology/` and the template in `templates/` as its
+   instructions, or use the Claude Code skill setup below.
 3. Ask: *"Run an RMF on [Company] ([url]). Here's our homepage copy: ..."*
 
 You get back a scored, section-by-section teardown and the rewritten copy.
@@ -93,35 +99,49 @@ You get back a scored, section-by-section teardown and the rewritten copy.
 references) into your project's `.claude/skills/rmf-audit/` directory, then ask Claude to
 "run an RMF on [company]."
 
-**With any capable model.** The methodology is plain markdown. Paste
-`methodology/revenue-messaging-framework.md` as a system prompt, give the model the company's
-homepage copy, and ask for the analysis. The copywriting panel and template do the rest.
+**Any capable model works too.** The methodology is plain markdown. Paste
+`methodology/revenue-messaging-framework.md` as a system prompt along with
+`methodology/copywriting-panel.md` and `templates/audit-template.md`, give the model the company's
+homepage copy, and ask for the analysis.
 
 ## Why it's different
 
-Most messaging advice is either a vague checklist ("be clear," "know your audience") or a single
-copywriting lens applied in isolation. The RMF is neither.
-
-- **It's a graded output, not a vibe check.** Every analysis produces a 0–100 score with a letter
-  grade, and the score is justified section by section, not just "this feels weak."
-- **Every rewrite has to earn its place.** No recommendation ships until it clears six independent
-  expert frameworks (positioning, copy craft, buyer psychology, awareness stage, differentiation, and
-  Jobs to Be Done) at a 7.5+ composite, with no single framework below 6. That gate lives in
-  [`methodology/copywriting-panel.md`](methodology/copywriting-panel.md) in full, scoring rubrics
-  included.
-- **It never invents data.** No fabricated stats, client names, or outcomes. If a claim isn't
-  verifiable on the site, the framework flags it and tells you how to prove or replace it.
-- **It's the whole spec, not a summary.** The grading scale, the section-by-section rules, the
-  never-do and always-do lists, the panel rubrics: all of it is here, not held back.
+- **Every analysis ends in a grade you can check.** Each one produces a 0-100 score and a letter
+  grade, and the section-by-section analysis has to justify the number.
+- **Every rewrite has to earn its place.** Each recommended line passes the plain-English check, then
+  has to clear six expert frameworks (positioning, copy craft, buyer psychology, awareness stage,
+  differentiation, and Jobs to Be Done) at a 7.5+ composite with no single framework below 6. Lines
+  that clear keep getting rewritten until the score stops rising. The full gate, scoring rubrics
+  included, is in [`methodology/copywriting-panel.md`](methodology/copywriting-panel.md).
+- **It never invents data.** If a claim isn't verifiable on the site, the framework flags it and tells
+  you how to prove it or replace it. It won't make up statistics, client names or outcomes to fill a gap.
+- **The whole spec is published.** The grading scale, the section-by-section rules, the never-do and
+  always-do lists and the panel rubrics are all in this repo.
 
 ## Who it's for
 
-Any team selling a considered-purchase B2B product or service: founders, GTM leads, product
-marketers, and consultants who need to know exactly where their messaging is leaking and what to say
-instead. Whatever you call it (positioning, messaging, value proposition, conversion copywriting, or
-just your website copy), the RMF finds what's weak and rewrites it. Colony Spark built it for
-industrial vendors, but the framework works in any industry. It's a weaker fit for pure e-commerce
-or B2C impulse purchases, where there's no considered buying decision to evaluate.
+It's for any team selling a considered-purchase B2B product or service, including founders, GTM leads,
+product marketers, and the consultants who advise them. If you need to know where your messaging is
+leaking and what to say instead, start here. Whatever you call the work (positioning, messaging, value
+proposition, conversion copywriting, or fixing your website copy), the RMF finds what's weak and
+rewrites it.
+
+Colony Spark built it for industrial vendors, and it works in any industry where buyers make a
+considered decision. Pure e-commerce and B2C impulse purchases are a weaker fit, because there's no
+real evaluation to analyze.
+
+## What changed in October 2026
+
+- **A plain-English check before scoring.** Recommended copy gets rewritten to drop the dramatic
+  shapes that make a line read as machine-written, such as manufactured reversals, payoff colons and
+  wise-sounding closers, before the panel sees it.
+- **The panel keeps pushing.** 7.5 is the minimum to ship. Lines that clear get rewritten from new
+  angles and re-scored until the score stops rising.
+- **Stricter readability.** Short beats, every labeled field on its own line, and real lists, so a
+  busy site owner can scan the analysis.
+- **A cleaner worked example.** The BuildFlow example now models copy that clears the plain-English
+  check and the panel, with no unsupported claims.
+- Section 3 is renamed "Section-by-Section Messaging Analysis."
 
 ## Contributing
 
@@ -134,6 +154,12 @@ and got a great (or a bad) result? Examples are welcome. They help calibrate the
 Built and maintained by **[Colony Spark](https://colonyspark.com)**, a GTM systems architect for
 industrial vendors. If this is useful, a star helps, and a link back to https://colonyspark.com is
 appreciated. If you build on it or share an audit it generated, please keep the attribution.
+
+We publish two related packages the same way.
+[Target List Build](https://github.com/bmurphy201/target-list-build) builds the named-account list
+and finds the buying committee inside each account.
+[AI Marketing Operator](https://github.com/bmurphy201/ai-marketing-operator) is a set of agent skills
+for running a marketing week, and its `message-check` is a compact form of this framework.
 
 ## License
 

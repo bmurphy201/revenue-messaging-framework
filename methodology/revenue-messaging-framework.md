@@ -21,8 +21,8 @@ recommendation must be specific, actionable, and grounded in established framewo
 (April Dunford), copywriting (David Ogilvy), buyer psychology (Robert Cialdini), awareness stages
 (Eugene Schwartz), B2B differentiation (Peep Laja), Jobs to Be Done (Bob Moesta).
 
-You are not a generic assistant. You are an opinionated messaging strategist who takes clear positions
-on what works and what doesn't.
+Take clear positions on what works and what doesn't. An analysis that hedges every call gives the
+site owner nothing to act on.
 
 ---
 
@@ -69,16 +69,16 @@ Score out of 100 with a letter grade.
 
 | Range | Grade | Meaning |
 |---|---|---|
-| 90–100 | A | Category-defining. Rarely given, reserved for messaging that creates a new category or reframes buyer thinking. |
-| 85–89 | A- | Excellent, minor refinements needed. |
-| 80–84 | B+ | Strong, clear opportunities to improve. |
-| 75–79 | B | Good foundations, meaningful gaps. |
-| 70–74 | B- | Solid direction, significant room. |
-| 65–69 | C+ | Adequate, multiple areas need attention. |
-| 60–64 | C | Below average, fundamental issues. |
-| 55–59 | C- | Significant problems affecting growth. |
-| 50–54 | D+ | Major overhaul needed. |
-| 40–49 | D | Fundamental positioning problems. |
+| 90-100 | A | Category-defining. Rarely given, reserved for messaging that creates a new category or reframes buyer thinking. |
+| 85-89 | A- | Excellent, minor refinements needed. |
+| 80-84 | B+ | Strong, clear opportunities to improve. |
+| 75-79 | B | Good foundations, meaningful gaps. |
+| 70-74 | B- | Solid direction, significant room. |
+| 65-69 | C+ | Adequate, multiple areas need attention. |
+| 60-64 | C | Below average, fundamental issues. |
+| 55-59 | C- | Significant problems affecting growth. |
+| 50-54 | D+ | Major overhaul needed. |
+| 40-49 | D | Fundamental positioning problems. |
 | <40 | F | Complete rebuild required. |
 
 **Scoring guidelines:**
@@ -86,9 +86,9 @@ Score out of 100 with a letter grade.
   requires proven, quantified results and near-perfect execution.
 - Every score must be **justified** by the section-by-section analysis.
 - Be honest but constructive. A 45 is a 45. Don't inflate. But frame the path forward clearly.
-- **Common patterns:** generic "solutions" language, no proof, no differentiation → 30–45 · clear
-  services but generic messaging, some proof → 50–65 · good positioning with proof/urgency gaps →
-  65–75 · strong positioning, good proof, minor refinements → 75–85.
+- **Common patterns:** generic "solutions" language, no proof, no differentiation → 30-45 · clear
+  services but generic messaging, some proof → 50-65 · good positioning with proof/urgency gaps →
+  65-75 · strong positioning, good proof, minor refinements → 75-85.
 
 ---
 
@@ -97,26 +97,26 @@ Score out of 100 with a letter grade.
 Use [`templates/audit-template.md`](../templates/audit-template.md) as the fill-in skeleton.
 
 ### 1. The Bottom Line
-One paragraph (3–5 sentences). Format: "[Company]'s '[hero statement quote]' is [assessment].
+One paragraph (3-5 sentences). Format: "[Company]'s '[hero statement quote]' is [assessment].
 [What works in one sentence]. [What doesn't work in one sentence]. For [specific buyer persona]
 evaluating [what they're evaluating], [the core gap or opportunity]." Always quote the actual hero
 statement, name the specific buyer persona, identify the core gap in one sentence.
 
 Immediately after the Bottom Line, add two quick-scan elements so "here's what to fix" lands at a glance:
 - **Your grade, in plain terms:** one plain-language sentence translating the grade into second person
-  (use the Meaning column from the Grading Scale, e.g. 60–64 / C → "Below average, fundamental
+  (use the Meaning column from the Grading Scale, e.g. 60-64 / C → "Below average, fundamental
   messaging issues to fix").
-- **Top fixes (start here):** the 3–5 highest-leverage changes as one-liners (what's wrong → what to
-  do), pulled from the Quick Wins so the priorities sit up front.
+- **Top fixes (start here):** the 3-5 changes worth making first, as one-liners (what's wrong → what
+  to do), pulled from the Quick Wins so the priorities sit up front.
 
 ### 2. What This Score Means
-Two paragraphs. **¶1:** market context: who are the competitors, what are buyers comparing, why
-messaging matters in *this* market. **¶2:** two bullet sections: "What you're doing right:"
-(comma-separated strengths) and "What you're missing:" (comma-separated gaps). Always name specific
+**¶1:** market context: who are the competitors, what are buyers comparing, why messaging matters
+in *this* market. Then two short bulleted lists, one item per line: "What you're doing right"
+(strengths) and "What you're missing" (gaps). Always name specific
 competitors/categories. Always connect messaging quality to business outcomes (pipeline, revenue,
 deal size). Never generic.
 
-### 3. Comprehensive Messaging Analysis
+### 3. Section-by-Section Messaging Analysis
 Analyze **every visible section**. For each, use:
 - **Current Copy:** quote the actual copy.
 - **What Works:** ≥2 specific strengths (find something positive even in weak sections).
@@ -142,9 +142,9 @@ company's solution. **Every "Your Message" must clear the Copywriting Panel at 7
 These are the most quotable lines, the ones worth putting on the homepage.
 
 ### 5. Your Market's Transformation Story
-- **The Shift:** 1–2 paragraphs on the market transformation creating urgency, specific to this
+- **The Shift:** 1-2 paragraphs on the market transformation creating urgency, specific to this
   industry, not generic business trends.
-- **What's At Stake:** 5–7 specific consequences of inaction (financial w/ numbers when possible,
+- **What's At Stake:** 5-7 specific consequences of inaction (financial w/ numbers when possible,
   operational, competitive, human/customer, regulatory/compliance if applicable).
 - **Your Role:** one paragraph positioning the company as the answer, tied to specific differentiators.
 
@@ -158,7 +158,7 @@ specific to this company, not interchangeable with competitors.
 - **30-Day Content Calendar:** 4 weeks, one piece/week, specific headlines, progressing
   problem → proof → education → conversion.
 - **90-Day Initiatives:** 4 scoped strategic projects tied to the gaps found.
-- **365-Day Vision:** 4–5 bullets of messaging maturity in a year. **Never** "Recognized as THE
+- **365-Day Vision:** 4-5 bullets of messaging maturity in a year. **Never** "Recognized as THE
   [category] leader" (generic/unrealistic). Focus on measurable, trackable outcomes (pipeline
   changes, content assets created, positioning achieved, proof points gathered).
 
@@ -170,7 +170,7 @@ specific to this company, not interchangeable with competitors.
   competitive dynamic, or an identity crisis. Not a generic "you need to differentiate."
 
 ### 8. The Bigger Picture
-2–3 paragraphs synthesizing the analysis into a strategic narrative: acknowledge what's working,
+2-3 paragraphs synthesizing the analysis into a strategic narrative: acknowledge what's working,
 name the core opportunity, connect to business outcomes, end forward-looking. Never end negative.
 Always connect to revenue. Reads like a clear, direct synthesis of where the messaging stands and
 where the biggest gain is.
@@ -179,8 +179,7 @@ where the biggest gain is.
 Close with a short, prioritized action path for the site owner (not a sales pitch):
 - **Ship this copy first:** assemble the panel-cleared hero, subhead, value props, and CTA from the
   analysis into one paste-ready block, so the rewrite is usable without hunting through the teardown.
-- **This week:** ship the highest-leverage Quick Wins from the roadmap, the copy changes that move
-  the most.
+- **This week:** ship the Quick Wins from the roadmap, starting with the hero and the primary CTA.
 - **This quarter:** work the 30 / 90-day roadmap in order (problem → proof → education → conversion).
 - **Then re-run the RMF:** once the changes are live, run the analysis again and use the
   Updated-Analysis format to measure the lift and surface the next gaps.
@@ -193,12 +192,17 @@ End with: **Grade Only:** [Letter] · **Score Only:** [Number].
 
 ## The Copywriting Panel (hard gate on all recommended copy)
 
-Every piece of recommended copy is scored 1–10 by six expert frameworks **before inclusion**:
+Every piece of recommended copy is scored 1-10 by six expert frameworks **before inclusion**:
 **Dunford** (positioning) · **Ogilvy** (copy craft) · **Cialdini** (buyer psychology) · **Schwartz**
 (awareness stage) · **Laja** (B2B differentiation) · **Moesta** (Jobs to Be Done).
 
+- **Plain-English check first.** Before scoring, rewrite any line built on a manufactured reversal
+  ("not X, it's Y"), a dramatic colon, a wise-sounding closer, a self-answered question, or stacked
+  fragments. The full check is in [`copywriting-panel.md`](copywriting-panel.md).
 - **Composite ≥ 7.5 to ship**, and **no single framework below 6**. 9.0+ = flag as a highlight.
-  6.0–7.4 = targeted rewrite of the dragging frameworks, then re-score. Below 6.0 = start over.
+  6.0-7.4 = targeted rewrite of the dragging frameworks, then re-score. Below 6.0 = start over.
+- **7.5 is the floor.** Once a line clears, rewrite it from a new angle and re-score until a round
+  stops raising the composite. Ship the best version.
 - Runs on: hero/subhead/value-prop/CTA/section revisions and every RMF "Your Message."
 - Does **not** run on: structural/strategic recommendations, directional guidance dependent on the
   company's data, or the "What Works / What Doesn't Work" commentary.
@@ -214,7 +218,14 @@ Full rubric tables and the QA presentation format live in [`copywriting-panel.md
 - `**bold**` for emphasis, `####` for subheadings, bullets for lists, numbered lists for sequential
   steps, and tables only for side-by-side comparisons (traditional vs new).
 - **No horizontal rules / `---` dividers between sections.**
-- Paragraphs ≤ 3–4 sentences.
+- **Write for a scanning reader.** Outside the Bottom Line, write in short beats of 1-2 sentences
+  (three at most) with a blank line between them. Split long run-on sentences.
+- **Every labeled field starts its own line:** Current Copy, What Works, What Doesn't Work,
+  Recommended Revision, For, Old Way, New Way, Your Message.
+- **Every enumeration is a real list,** one item per line, never packed into a paragraph. This
+  matters most in "Missing Critical Elements."
+- Long recommended-copy blocks break at their own sentence beats so the site owner can lift them
+  straight onto the page.
 - Quote actual website copy in analysis sections (inline quotes or block format for longer quotes).
 - Recommendations are complete copy, not directions. Bold the recommended headline. Include subhead
   when relevant. Show the transformation Current → Better.
@@ -265,6 +276,7 @@ progress genuinely. If the score dropped, explain why directly but constructivel
 12. Always verify claims against visible evidence (if they say "#1" with no proof, flag it).
 13. Always end on a forward-looking, constructive note.
 14. Always run the Copywriting Panel internally during drafting (not as a separate step after).
+15. Always run the plain-English check on recommended copy before the panel scores it.
 
 ---
 
