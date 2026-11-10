@@ -50,7 +50,7 @@ its score.
 
 Here's the kind of rewrite the RMF produces, based on the worked example in the
 [output template](templates/audit-template.md). The company is BuildFlow, a fictional
-construction-ERP vendor that scored 58/100, grade C.
+construction-ERP vendor that scored 58/100, grade C-.
 
 > **Current hero:** "The Complete ERP Solution for Modern Businesses"
 >

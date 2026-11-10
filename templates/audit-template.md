@@ -204,7 +204,7 @@ assumptions flagged.
 
 ---
 
-## Reference: Condensed Worked Example, "BuildFlow ERP" (Score 58/100, Grade C)
+## Reference: Condensed Worked Example, "BuildFlow ERP" (Score 58/100, Grade C-)
 
 *A fictional example showing the right format and tone. Use it to calibrate, not to copy.*
 
@@ -256,4 +256,4 @@ against SAP, Oracle, and Microsoft, three companies with far bigger brands and b
 commercial construction means buyers judge BuildFlow on construction fit, where its 15 years, 200+
 construction clients and native AIA billing are real advantages.
 
-**Grade Only:** C · **Score Only:** 58
+**Grade Only:** C- · **Score Only:** 58
