@@ -40,16 +40,20 @@ pure e-commerce or B2C impulse, say so and adjust expectations before proceeding
 ### 3. Run the analysis: 10 sections, exact order
 Drive from [`templates/audit-template.md`](templates/audit-template.md), applying every rule in
 [`methodology/revenue-messaging-framework.md`](methodology/revenue-messaging-framework.md):
-Bottom Line → What This Score Means → Comprehensive Analysis (+ Missing Elements) → 3-layer RMF →
+Bottom Line → What This Score Means → Section-by-Section Messaging Analysis (+ Missing Elements) → 3-layer RMF →
 Transformation Story → Roadmap → Competitive Positioning → Bigger Picture → Next Steps → Grade/Score
 tags. Honor the grading scale (**never above 85 on a first
-analysis**), constructive tone, no `---` dividers, and the never-do/always-do lists.
+analysis**), constructive tone, no `---` dividers, the readability rules (short beats, each labeled
+field on its own line, real lists), and the never-do/always-do lists.
 
 ### 4. Run the copywriting panel internally (during drafting, not after)
-Score every recommended revision and every RMF "Your Message" against the six experts
+First run the plain-English check on every recommended line, rewriting manufactured reversals,
+dramatic colons, wise-sounding closers, self-answered questions and stacked fragments. Then score
+every recommended revision and every RMF "Your Message" against the six experts
 ([`copywriting-panel.md`](methodology/copywriting-panel.md)). Ship only
-copy that clears **7.5 composite and ≥6 on every framework**. Rewrite the rest and re-score. Keep
-scores in an internal QA appendix, never in the analysis itself.
+copy that clears **7.5 composite and ≥6 on every framework**. Rewrite the rest and re-score. Copy
+that clears gets rewritten from a new angle and re-scored until a round stops raising the composite.
+Ship the best version. Keep scores in an internal QA appendix, never in the analysis itself.
 
 ### 5. Output
 Output the full 10-section analysis: a self-contained messaging audit the site owner can act on.
@@ -58,7 +62,8 @@ Output the full 10-section analysis: a self-contained messaging audit the site o
 
 - [ ] Scope checked
 - [ ] 10-section analysis produced
-- [ ] All recommended copy cleared the panel, scores kept in an internal QA appendix
+- [ ] All recommended copy passed the plain-English check
+- [ ] All recommended copy cleared the panel and was pushed until scores stopped rising, scores kept in an internal QA appendix
 
 ## Anti-patterns
 
@@ -66,6 +71,7 @@ Output the full 10-section analysis: a self-contained messaging audit the site o
 - Shipping copy that didn't clear the panel, or leaving panel scores in the analysis.
 - Fabricating stats, client names, or outcomes to fill a section.
 - Scoring above 85 on a first analysis, or inflating to be nice.
+- Stopping at the first score that clears 7.5 instead of pushing the line until it stops improving.
 
 ## Related
 
